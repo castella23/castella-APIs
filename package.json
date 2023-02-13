@@ -1,0 +1,18 @@
+{
+  "name": "restfull_apis",
+  "version": "0.1.0",
+  "description": "restfull_apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "castella-APIs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restfull_apis": "^0.1.0"
+  }
+}
